@@ -6,6 +6,6 @@
 - :chart_with_upwards_trend: Currently supporting A/B experimentation with data as a product tools
 - :computer: Java, Spring, Python
 - :school_satchel: Typescript, React
-- :partly_sunny: AWS, Docker
-- :honeybee: Used to be a product manager in e-commerce, previously in tech investment with startups in sustainability & other markets
-- :evergreen_tree: New to software development!
+- :books: AWS, Docker
+- :full_moon: Used to be a product manager in e-commerce, previously in tech investment with startups in sustainability & other markets
+- :seedling: New to software development!
