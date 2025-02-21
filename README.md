@@ -1,6 +1,6 @@
 # 👋🏽
 
-- :eyes: Hey, I'm Gauri
+- :eyes: Hello, I'm Gauri
 - :radio: Working at the BBC
 - :sparkling_heart: Previously developed personalisation products (comments, recommendations and notifications)...
 - :chart_with_upwards_trend: ... and supported experimentation & data products for iPlayer & Sounds
